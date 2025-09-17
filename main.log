@@ -1,50 +1,34 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.17)  17 SEP 2025 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.17)  17 SEP 2025 16:10
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**c:/Users/matheus.machado/Desktop/Matheus/Particular/TCC/main.tex
+(c:/Users/matheus.machado/Desktop/Matheus/Particular/TCC/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (abntex2-IFC.cls
 Document Class: abntex2-IFC 10/07/2016 Modelo do IFC baseado em abnTeX2
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abnte
-x2.cls
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
 
 LaTeX Warning: You have requested document class `abntex2/abntex2',
                but the document class provides `abntex2'.
 
 Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.s
-ty
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir
-.cls
-Document Class: memoir 2025/03/10 v3.8.3b configurable book, report, article do
-cument class
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch
-.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl
-3.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/03/10 v3.8.3b configurable book, report, article document class
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-08-13 L3 programming layer (loader) 
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
-ackend-pdftex.def
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xp
-arse\xparse.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2024-08-16 L3 Experimental document command parser
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
-lbox.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count276
 ))
@@ -53,16 +37,12 @@ Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \xlvchars=\skip51
 \@memcnta=\count277
 \c@@memmarkcntra=\count278
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
-.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 \trimtop=\skip52
 \trimedge=\skip53
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.
-clo
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo
 File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
 )
 \binding=\skip54
@@ -152,9 +132,7 @@ File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
-ty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \col@sep=\dimen153
 \ar@mcellbox=\box53
@@ -163,17 +141,11 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \extratabsurround=\skip117
 \backup@length=\skip118
 \ar@cellbox=\box54
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn
-.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
 Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarra
-y.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabular
-x.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen155
 \TX@old@table=\dimen156
@@ -182,9 +154,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen159
 \TX@cols=\count297
 \TX@ftn=\toks19
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\book
-tabs.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen160
 \lightrulewidth=\dimen161
@@ -240,38 +210,22 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \epigraphrule=\skip133
 LaTeX Info: Redefining \em on input line 7017.
 LaTeX Info: Redefining \emph on input line 7025.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\name
-ref.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refc
-ount.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltx
-cmds.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\i
-nfwarerr.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestr
-ing\gettitlestring.sty
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvo
-ptions.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
-al.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvs
-etkeys.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
 \c@section@level=\count308
@@ -346,9 +300,7 @@ LaTeX Info: Redefining \flushbottom on input line 8112.
 patch 2 for \immediateaddtocontents failed
 \c@pagenoteshadow=\count313
 \mem@pn@lastkern=\skip181
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbati
-m.sty
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks23
 \verbatim@line=\toks24
@@ -356,11 +308,8 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 )
 \verbatimindent=\skip182
 \verbatim@out=\write3
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb
-.sty
-Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi
-)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty
+Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi)
 )
 \bvboxsep=\skip183
 \c@memfbvline=\count314
@@ -385,9 +334,7 @@ Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi
 \c@sheetsequence=\count328
 \c@lastsheet=\count329
 \c@lastpage=\count330
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/textcase\text
-case.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
 Package: textcase 2025/02/16 v1.05 Text only upper/lower case changing (DPC)
 Package textcase Info: Defining Legacy names on input line 20.
 )
@@ -428,54 +375,34 @@ Package tocbibind [2008/07/23] emulated by memoir.
 Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hype
-rref.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekey
-s\kvdefinekeys.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\p
-dfescape.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\
-pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycol
-or.sty
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\s
-tringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen193
 \Hy@linkcounter=\count335
 \Hy@pagecounter=\count336
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1e
-nc.def
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\int
-calc.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count337
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puen
-c.def
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -488,22 +415,16 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count338
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen194
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bits
-et.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\
-bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count339
 \Field@Width=\dimen195
@@ -520,84 +441,51 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count342
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdf
-tex.def
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count343
 \c@bookmark@seq@number=\count344
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilechec
-k\rerunfilecheck.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/uniquecount
-er\uniquecounter.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip191
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfi
-xc.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
 Package: memhfixc 2025/03/06 v1.23 hyperref package fixes for memoir class
 \c@memhycontfloat=\count345
 \c@mem@Hpagenote=\count346
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\book
-mark.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-
-pdftex.def
-File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
-)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count347
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel
-.sty
-Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count348
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2045.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2047.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2049.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2050.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2051.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2053.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
 \U@D=\dimen197
 \l@unhyphenated=\language79
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtba
-bel.def)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count349
 
 *************************************
 * Local config file bblopts.cfg used
 *
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts
-.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/babel-english
-\english.ldf
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/babel/local
-e/en\babel-english.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 12.
 )
@@ -607,16 +495,12 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuge
-s\brazil.ldf
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazil.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
 (babel)             (\language56). Reported on input line 111.
 Package babel Info: Making " an active character on input line 143.
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enum
-item.sty
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip192
 \enit@outerparindent=\dimen198
@@ -624,9 +508,7 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box58
 \enit@count@id=\count350
 \enitdp@description=\count351
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.st
-y
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count352
 \calc@Bcount=\count353
@@ -714,16 +596,11 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 45.
 \cftdesenhonumwidth=\skip284
 )
 
-LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 18.
+LaTeX Warning: \include should only be used after \begin{document} on input line 18.
 
-(config_inicial.tex
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\capti
-on.sty
+(config_inicial.tex (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\capti
-on3.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen257
 \captionmargin=\dimen258
@@ -734,11 +611,8 @@ Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@parindent=\dimen263
 \caption@hangindent=\dimen264
 Package caption Info: memoir document class detected.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\capti
-on-memoir.sto
-File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to th
-e memoir document class (AR)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.sto
+File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to the memoir document class (AR)
 ))
 \c@caption@flags=\count373
 \c@continuedfloat=\count374
@@ -746,88 +620,51 @@ Package caption Info: changepage package is loaded.
 \caption@adjustwidth@hsize=\dimen265
 \caption@adjustwidth@linewidth=\dimen266
 Package caption Info: hyperref package is loaded.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/cmap\cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.
-sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.
-sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
-6.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.
-fd
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 116.
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-)<<t1.cmap>>)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc
-.sty
+)<<t1.cmap>>) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks26
 \inpenc@posthook=\toks27
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\last
-page.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\last
-page2e.sty
-Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
-MM)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\last
-pagemodern.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (HMM)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
 Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count375
 ) 
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentf
-irst.sty
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\colo
-r.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
-color.cfg
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
-pdftex.def
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\math
-color.ltx))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
-hicx.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
-hics.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
-.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
-graphics.cfg
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen267
 \Gin@req@width=\dimen268
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsf
-onts.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -835,43 +672,27 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\back
-ref.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
 Package: backref 2025-06-21 v1.45 Bibliographical back referencing
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\tod
-onotes.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
 Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
 Package: todonotes 2024/01/05
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyv
-al.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xke
-yval.tex
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkv
-utils.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks29
 \XKV@tempa@toks=\toks30
 )
 \XKV@depth=\count376
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
-.sty
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
-color.cfg
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 LaTeX Info: Redefining \color on input line 762.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\math
-color.ltx)
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -881,46 +702,22 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendl
-ayer\tikz.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclaye
-r\pgf.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
-\pgfrcs.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
-es\pgfutil-common.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks31
 \pgfutil@tempdima=\dimen269
 \pgfutil@tempdimb=\dimen270
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
-es\pgfutil-latex.def
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box59
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
-es\pgfrcs.code.tex
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.rev
-ision.tex)
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclaye
-r\pgfcore.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlay
-er\pgfsys.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
-ayer\pgfsys.code.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
-es\pgfkeys.code.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks32
 \pgfkeys@temptoks=\toks33
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
-es\pgfkeyslibraryfiltered.code.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks34
 ))
 \pgf@x=\dimen271
@@ -943,76 +740,32 @@ es\pgfkeyslibraryfiltered.code.tex
 \t@pgf@tokb=\toks36
 \t@pgf@tokc=\toks37
 \pgf@sys@id@count=\count381
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
-ayer\pgf.cfg
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
-ayer\pgfsys-pdftex.def
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
-ayer\pgfsys-common-pdf.def
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
-ayer\pgfsyssoftpath.code.tex
+))) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count382
 \pgfsyssoftpath@bigbuffer@items=\count383
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
-ayer\pgfsysprotocol.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcore.code.tex
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmath.code.tex
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathutil.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathparser.code.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen281
 \pgfmath@count=\count384
 \pgfmath@box=\box60
 \pgfmath@toks=\toks38
 \pgfmath@stack@operand=\toks39
 \pgfmath@stack@operation=\toks40
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.basic.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.trigonometric.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.random.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.comparison.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.base.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.round.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.misc.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfunctions.integerarithmetics.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathcalc.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmathfloat.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count385
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fint.code.tex)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorepoints.code.tex
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen282
 \pgf@picmaxx=\dimen283
@@ -1028,131 +781,75 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yy=\dimen293
 \pgf@zx=\dimen294
 \pgf@zy=\dimen295
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorepathconstruct.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen296
 \pgf@path@lasty=\dimen297
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorepathusage.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen298
 \pgf@shorten@start@additional=\dimen299
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorescopes.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box61
 \pgf@hbox=\box62
 \pgf@layerbox@main=\box63
 \pgf@picture@serial@count=\count386
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcoregraphicstate.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen300
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcoretransformations.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen301
 \pgf@pt@y=\dimen302
 \pgf@pt@temp=\dimen303
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorequick.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcoreobjects.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorepathprocessing.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorearrows.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen304
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcoreshade.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen305
 \pgf@sys@shading@range@num=\count387
 \pgf@shadingcount=\count388
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcoreimage.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcoreexternal.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box64
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorelayers.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcoretransparency.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorepatterns.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
-yer\pgfcorerdf.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
-\pgfmoduleshapes.code.tex
+))) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box65
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
-\pgfmoduleplot.code.tex
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibi
-lity\pgfcomp-version-0-65.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen306
 \pgf@nodesepend=\dimen307
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibi
-lity\pgfcomp-version-1-18.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
-\pgffor.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
-\pgfkeys.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
-es\pgfkeys.code.tex))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfm
-ath.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
-fmath.code.tex))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
-es\pgffor.code.tex
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen308
 \pgffor@skip=\dimen309
 \pgffor@stack=\toks41
 \pgffor@toks=\toks42
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
-dlayer/tikz\tikz.code.tex
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
-es\pgflibraryplothandlers.code.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count389
 \pgfplotmarksize=\dimen310
@@ -1173,39 +870,27 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofchildren=\count391
 \tikznumberofcurrentchild=\count392
 \tikz@fig@count=\count393
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
-\pgfmodulematrix.code.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count394
 \pgfmatrixcurrentcolumn=\count395
 \pgf@matrix@numberofcolumns=\count396
 )
 \tikz@expandcount=\count397
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
-dlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
-dlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+))) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 \c@@todonotes@numberoftodonotes=\count398
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xargs\xargs.s
-ty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xargs\xargs.sty
 Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
 \xargs@max=\count399
 \xargs@toksa=\toks43
 \xargs@toksb=\toks44
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.s
-ty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-o
-ri.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@word=\toks45
 \SOUL@lasttoken=\toks46
@@ -1227,77 +912,44 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen325
 \SOUL@uldp=\dimen326
 \SOUL@ulht=\dimen327
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\et
-excmds.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/ba
-se\glossaries.sty
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
 Package: glossaries 2025/08/11 v4.8 (NLCT)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfir
-stuc.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
 \@glsmfirst=\toks51
 \@glsmrest=\toks52
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
-n.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks53
 \ex@=\dimen328
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tra
-cklang.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\t
-racklang.tex)
-Package tracklang Info: Tracking dialect `english' (language `english') on inpu
-t line 53.
-Package tracklang Info: Tracking dialect `brazil' (language `portuges') on inpu
-t line 53.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
-anslator.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)
+Package tracklang Info: Tracking dialect `english' (language `english') on input line 53.
+Package tracklang Info: Tracking dialect `brazil' (language `portuges') on input line 53.
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-en
-glish\glossaries-english.ldf
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-english.ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-po
-rtuges\glossaries-pt-BR.ldf
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glossaries-pt-BR.ldf
 File: glossaries-pt-BR.ldf 2014/11/23 v1.0
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-po
-rtuges\glossaries-portuges-utf8.ldf))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/datatool\data
-tool-base.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glossaries-portuges-utf8.ldf)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
 Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsma
-th.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
 \@mathmargin=\skip286
 
 For additional information on amsmath, use the `?' option.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
-xt.sty
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbs
-y.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen329
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsop
-n.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count404
@@ -1347,9 +999,7 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks57
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/datatool\data
-tool-l3fp.def
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
 File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@toks=\toks58
@@ -1357,9 +1007,7 @@ File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
 \dtl@tmplength=\skip289
 \l__datatool_measure_box=\box72
 \dtl@sortresult=\count417
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/datatool\data
-tool-utf8.ldf
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
 File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 )
 \@dtl@datatype=\count418
@@ -1387,16 +1035,13 @@ File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
 \@dtl@foreach@level=\count438
 
 
-Package tracklang Warning: No `datatool' support for dialect `english'  on inpu
-t line 9908.
+Package tracklang Warning: No `datatool' support for dialect `english'  on input line 9908.
 
 
-Package tracklang Warning: No `datatool' support for dialect `brazil'  on input
- line 9908.
+Package tracklang Warning: No `datatool' support for dialect `brazil'  on input line 9908.
 
 
-Package tracklang Warning: No `datatool' support for dialect `brazil'  on input
- line 9908.
+Package tracklang Warning: No `datatool' support for dialect `brazil'  on input line 9908.
 
 \dtl@codeA=\count439
 \dtl@codeB=\count440
@@ -1411,29 +1056,20 @@ Package glossaries Warning: Overriding \printglossary on input line 6477.
 \l__glossaries_tmpa_dim=\dimen339
 \l__glossaries_tmpb_dim=\dimen340
 
-Package glossaries Warning: Overriding `theglossary' environment on input line 
-7676.
+Package glossaries Warning: Overriding `theglossary' environment on input line 7676.
 
 \glskeylisttok=\toks60
 \glslabeltok=\toks61
 \glsshorttok=\toks62
 \glslongtok=\toks63
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/st
-yles\glossary-hypernav.sty
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
 Package: glossary-hypernav 2025/08/11 v4.8 (NLCT)
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/st
-yles\glossary-list.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
 Package: glossary-list 2025/08/11 v4.8 (NLCT)
 \glslistdottedwidth=\skip291
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/st
-yles\glossary-long.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
 Package: glossary-long 2025/08/11 v4.8 (NLCT)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtab
-le.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LTleft=\skip292
 \LTright=\skip293
@@ -1454,13 +1090,9 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 )
 \glsdescwidth=\skip296
 \glspagelistwidth=\skip297
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/st
-yles\glossary-super.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
 Package: glossary-super 2025/08/11 v4.8 (NLCT)
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\
-supertabular.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
 Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \c@tracingst=\count447
 \ST@wd=\dimen342
@@ -1477,9 +1109,7 @@ Package: supertabular 2024/07/20 v4.2c the supertabular environment
 \ST@toadd=\dimen350
 \ST@dimen=\dimen351
 \ST@pbox=\box78
-))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/st
-yles\glossary-tree.sty
+)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
 Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \l__glossaries_tree_max_known_level_int=\count448
 \l__glossaries_tree_offset_dim=\dimen352
@@ -1499,13 +1129,9 @@ Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \openout6 = `main.acn'.
 
 Package glossaries Info: Writing glossary file main.acn on input line 37.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
-etry.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvte
-x.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count450
@@ -1520,64 +1146,42 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen367
 \Gm@layoutvoffset=\dimen368
 \Gm@dimlist=\toks65
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
-etry.cfg))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abnte
-x2cite.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite.sty
 
 LaTeX Warning: You have requested package `abntex2/abntex2cite',
                but the package provides `abntex2cite'.
 
 Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abnte
-x2abrev.sty)
+(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2abrev.sty)
 \minimumbiblabelwidth=\skip302
 \ABCIauxlen=\skip303
 \c@ABCIaux=\count453
 \c@ABCImax=\count454
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf
-.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxet
-ex.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsi
-ze.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
 \biblabelsep=\skip304
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks66
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum
-.sty
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3
-keys2e\l3keys2e.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count455
 \l__lipsum_a_int=\count456
 \l__lipsum_b_int=\count457
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum
-.ltd.tex))
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/multirow\mult
-irow.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip305
 \multirow@cntb=\count458
 \multirow@dima=\skip306
 \bigstrutjot=\dimen369
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/float\float.s
-ty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count459
 \float@exts=\toks67
@@ -1591,17 +1195,12 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 
 Writing index file main.idx 
 
-LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 22.
+LaTeX Warning: \include should only be used after \begin{document} on input line 22.
 
 (pretextuais/capa.tex) (main.aux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 23.
- (pretextuais/folhadeaprovacao.aux)
-(pretextuais/dedicatoria.aux) (pretextuais/agradecimentos.aux)
-(pretextuais/epigrafe.aux) (pretextuais/resumo.aux) (pretextuais/acronimos.aux)
-(conteudo/introducao.aux) (conteudo/fundamentacao.aux)
-(conteudo/metodologia.aux) (conteudo/cronograma.aux) (conteudo/conclusao.aux))
+ (pretextuais/folhadeaprovacao.aux) (pretextuais/dedicatoria.aux) (pretextuais/agradecimentos.aux) (pretextuais/epigrafe.aux) (pretextuais/resumo.aux) (pretextuais/acronimos.aux) (conteudo/introducao.aux) (conteudo/fundamentacao.aux) (conteudo/metodologia.aux) (conteudo/cronograma.aux) (conteudo/conclusao.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -1628,16 +1227,12 @@ Package hyperref Info: Link coloring ON on input line 25.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcap
-tion.sty
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
-upp-pdf.mkii
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count460
 \scratchdimen=\dimen370
@@ -1650,30 +1245,18 @@ upp-pdf.mkii
 \MPnumerator=\count464
 \makeMPintoPDFobject=\count465
 \everyMPtoPDFconversion=\toks70
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
-epstopdf-base.sty
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epst
-opdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
-Package todonotes Warning: The length marginparwidth is less than 2cm and will 
-most likely cause issues with the appearance of inserted todonotes. The issue c
-an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 25.
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 25.
 
-(main.glsdefs)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-en
-glish\glossaries-dictionary-English.dict
+(main.glsdefs) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-dictionary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
-)
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-po
-rtuges\glossaries-dictionary-Brazilian.dict
+) (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glossaries-dictionary-Brazilian.dict
 Dictionary: glossaries-dictionary, Language: Brazilian 
 )
 *geometry* driver: auto-detecting
@@ -1749,17 +1332,11 @@ Package pdftex.def Info: brasaoRepublicaPeB.jpg  used on input line 34.
 (pdftex.def)             Requested size: 42.67912pt x 42.67897pt.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
-
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa
-.fd
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
-
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb
-.fd
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Overfull \hbox (8.53766pt too wide) in paragraph at lines 34--34
@@ -1773,9 +1350,7 @@ Overfull \hbox (8.53766pt too wide) in paragraph at lines 34--34
 \openout5 = `main.ist'.
 
 
-{C:/Users/matheus.machado/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/
-Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc
-} <./brasaoRepublicaPeB.jpg>]
+{C:/Users/matheus.machado/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./brasaoRepublicaPeB.jpg>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1811,8 +1386,7 @@ Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc
 
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.39 
@@ -1886,8 +1460,7 @@ No file pretextuais/epigrafe.tex.
 
 
 
-Package glossaries Warning: Entry `am' has already been defined in the document
- environment (ignoring new definition) on input line 10.
+Package glossaries Warning: Entry `am' has already been defined in the document environment (ignoring new definition) on input line 10.
 
 )
 No file main.acr.
@@ -1920,11 +1493,8 @@ Package pdftex.def Info: images/teste.png  used on input line 29.
 
 
 [12 <./images/teste.png>]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5
-7.
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm
-.fd
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 57.
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
@@ -1952,8 +1522,7 @@ Package pdftex.def Info: images/abragames.png  used on input line 20.
 
 [17]
 Overfull \hbox (8.19395pt too wide) in paragraph at lines 71--72
-\T1/ptm/m/n/12 es-tá-gios prin-ci-pais, con-forme des-ta-cado vi-su-al-mente: b
-lo-cos con-vo-lu-ci-o-nais com não-linearidade,
+\T1/ptm/m/n/12 es-tá-gios prin-ci-pais, con-forme des-ta-cado vi-su-al-mente: blo-cos con-vo-lu-ci-o-nais com não-linearidade,
  []
 
 <images/monografia.png, id=283, 428.802pt x 133.6995pt>
@@ -1994,10 +1563,7 @@ Package pdftex.def Info: images/v.png  used on input line 261.
 
  (conteudo/metodologia.tex
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 8.
-
-
-(C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.
-fd
+ (C:\Users\matheus.machado\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 
@@ -2058,11 +1624,7 @@ bibitemlist
 
  
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(main.aux (pretextuais/folhadeaprovacao.aux) (pretextuais/dedicatoria.aux)
-(pretextuais/agradecimentos.aux) (pretextuais/epigrafe.aux)
-(pretextuais/resumo.aux) (pretextuais/acronimos.aux) (conteudo/introducao.aux)
-(conteudo/fundamentacao.aux) (conteudo/metodologia.aux)
-(conteudo/cronograma.aux) (conteudo/conclusao.aux))
+(main.aux (pretextuais/folhadeaprovacao.aux) (pretextuais/dedicatoria.aux) (pretextuais/agradecimentos.aux) (pretextuais/epigrafe.aux) (pretextuais/resumo.aux) (pretextuais/acronimos.aux) (conteudo/introducao.aux) (conteudo/fundamentacao.aux) (conteudo/metodologia.aux) (conteudo/cronograma.aux) (conteudo/conclusao.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -2071,49 +1633,30 @@ Package rerunfilecheck Info: File `main.brf' has not changed.
 (rerunfilecheck)             Checksum: E4EF20DD864887E1F8B796361B7356C2;3497.
  ) 
 Here is how much of TeX's memory you used:
- 38360 strings out of 468133
- 755932 string characters out of 5425872
+ 38362 strings out of 468133
+ 755875 string characters out of 5425872
  1301202 words of memory out of 5000000
  66112 multiletter control sequences out of 15000+600000
  658451 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,13n,121p,2514b,809s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,13n,121p,2568b,809s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{glo:relu} has been referenced but does not exist, r
-eplaced by a fixed one
-
-
-pdfTeX warning (dest): name{glo:af} has been referenced but does not exist, rep
-laced by a fixed one
+pdfTeX warning (dest): name{glo:relu} has been referenced but does not exist, replaced by a fixed one
 
 
-pdfTeX warning (dest): name{glo:rna} has been referenced but does not exist, re
-placed by a fixed one
+pdfTeX warning (dest): name{glo:af} has been referenced but does not exist, replaced by a fixed one
 
 
-pdfTeX warning (dest): name{glo:am} has been referenced but does not exist, rep
-laced by a fixed one
+pdfTeX warning (dest): name{glo:rna} has been referenced but does not exist, replaced by a fixed one
 
 
-pdfTeX warning (dest): name{glo:cnn} has been referenced but does not exist, re
-placed by a fixed one
+pdfTeX warning (dest): name{glo:am} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmex10.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/matheus.machado/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/matheus.macha
-do/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/U
-sers/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmr12.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr8.pfb><C:/Users/matheus.machado/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/matheus.machado/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ma
-theus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
-<C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
-tmb8a.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/u
-rw/times/utmr8a.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fon
-ts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (35 pages, 777736 bytes).
+
+pdfTeX warning (dest): name{glo:cnn} has been referenced but does not exist, replaced by a fixed one
+
+<C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/matheus.machado/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (35 pages, 777738 bytes).
 PDF statistics:
  724 PDF objects out of 1000 (max. 8388607)
  146 named destinations out of 1000 (max. 500000)

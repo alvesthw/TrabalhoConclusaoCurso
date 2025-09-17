@@ -1,6 +1,6 @@
-PWD C:\Users\matheus.machado\Desktop\Matheus\Particular\Overleaf
+PWD c:\Users\matheus.machado\Desktop\Matheus\Particular\TCC
 INPUT C:\Users\matheus.machado\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT main.tex
+INPUT c:\Users\matheus.machado\Desktop\Matheus\Particular\TCC\main.tex
 OUTPUT main.log
 INPUT .\abntex2-IFC.cls
 INPUT abntex2-IFC.cls
