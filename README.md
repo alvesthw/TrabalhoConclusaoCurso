@@ -1,9 +1,16 @@
-Modelo de trabalho acadêmico do IFC.
+## O que instalar
 
-O arquivo main.tex tem as referências.
+Compilador LaTeX → para gerar o PDF do TCC.
 
-Contribuindo com a iniciativa de Lucas Barbosa (https://github.com/lvbarbosa)
+MiKTeX (Windows)
+Precisa do Perl
+Rodar no terminal:
+latexmk -pdf main.tex
 
-Arquivos adaptados por Eliton Tiago (https://github.com/ElitonTiago)
+Como compilar manualmente (caso n baixe o pearl):
+pdflatex main.tex
+bibtex main      # só se tiver bibliografia
+pdflatex main.tex
+pdflatex main.tex
 
-Toda ajuda é bem vinda :D
+Vai gerar o PDF final main.pdf.
