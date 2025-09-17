@@ -1,0 +1,236 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[{Abragames} 2022]{abragames2022}
+\abntrefinfo{{Abragames}}{{Abragames}}{2022}
+{{Abragames}. \textbf{Pesquisa da Indústria Brasileira de Games}. 2022.
+Acesso em: 02 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.abragames.org/pesquisa-da-industria-brasileira-de-games.html}.}
+
+\bibitem[Ara{\'u}jo e Le{\~a}o 2024]{araujo2024produccao}
+\abntrefinfo{Ara{\'u}jo e Le{\~a}o}{ARA{\'U}JO; LE{\~A}O}{2024}
+{ARA{\'U}JO, Markondes~Lacerda; LE{\~A}O, Marcelo~Franco. Produ{\c{c}}{\~a}o
+  cient{\'\i}fica nacional sobre jogos digitais no ensino de ci{\^e}ncias
+  (2004-2021).
+\textbf{Educa{\c{c}}{\~a}o}, p. e50--1, 2024.}
+
+\bibitem[Backus 2025]{backus2025investigating}
+\abntrefinfo{Backus}{BACKUS}{2025}
+{BACKUS, Jessica. Investigating the prominence and severity of bugs and
+  glitches within games and their effects on player experience.
+\textbf{arXiv preprint arXiv :2504.19010}, 2025.}
+
+\bibitem[Bernardo et al. 2020]{bernardo2020classificaccao}
+\abntrefinfo{Bernardo et al.}{BERNARDO et al.}{2020}
+{BERNARDO, Claudio~Gon{\c{c}}alves et al. Classifica{\c{c}}{\~a}o de jogos
+  eletr{\^o}nicos como tecnologia assistiva para pessoas com defici{\^e}ncia
+  visual.
+\textbf{Informa{\c{c}}{\~a}o \& Informa{\c{c}}{\~a}o}, v.~25, n.~1, p.
+  141--170, 2020.}
+
+\bibitem[Borges 2020]{borges2020aplicaccao}
+\abntrefinfo{Borges}{BORGES}{2020}
+{BORGES, Pedro~Pinguelli.
+\textbf{Aplica{\c{c}}{\~a}o de redes neurais para a determina{\c{c}}{\~a}o do
+  coeficiente de atrito de filmes pl{\'a}sticos flex{\'\i}veis}.
+Disserta\c{c}\~{a}o ({B.S.} thesis) --- Universidade Tecnol{\'o}gica Federal do
+  Paran{\'a}, 2020.}
+
+\bibitem[Castro e Braga 2011]{castro2011aprendizado}
+\abntrefinfo{Castro e Braga}{CASTRO; BRAGA}{2011}
+{CASTRO, Cristiano Leite~de; BRAGA, Ant{\^o}nio~P{\'a}dua. Aprendizado
+  supervisionado com conjuntos de dados desbalanceados.
+\textbf{Sba: Controle \& Automa{\c{c}}{\~a}o Sociedade Brasileira de
+  Automatica}, SciELO Brasil, v.~22, p. 441--466, 2011.}
+
+\bibitem[Ceccon 2020]{iaexpert2020ativacao}
+\abntrefinfo{Ceccon}{CECCON}{2020}
+{CECCON, Denny. \textbf{Funções de ativação: definição, características,
+  e quando usar cada uma}. 2020.
+  \url{https://iaexpert.academy/2020/05/25/funcoes-de-ativacao-definicao-caracteristicas-e-quando-usar-cada-uma/}.
+Acesso em: 22 de julho 2025.}
+
+\bibitem[{CNN Brasil} 2024]{cnnbrasil2024}
+\abntrefinfo{{CNN Brasil}}{{CNN Brasil}}{2024}
+{{CNN Brasil}. \textbf{Público gamer cresce e 3 em cada 4 brasileiros consomem
+  jogos eletrônicos}. 2024.
+Acesso em: 25 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.cnnbrasil.com.br/tecnologia/publico-gamer-cresce-e-3-em-cada-4-brasileiros-consomem-jogos-eletronicos/}.}
+
+\bibitem[Costa 2024]{costa2024testes}
+\abntrefinfo{Costa}{COSTA}{2024}
+{COSTA, Mois{\'e}s~Oliveira. Testes de software automatizados em jogos
+  digitais: um estudo bibliogr{\'a}fico.
+2024.}
+
+\bibitem[Cunha 2020]{cunha2020redes}
+\abntrefinfo{Cunha}{CUNHA}{2020}
+{CUNHA, Leonardo Cardoso~da.
+\textbf{Redes neurais convolucionais e segmentação de imagens: uma revisão
+  bibliográfica}.
+Disserta\c{c}\~{a}o (Mestrado) --- Universidade Federal de Ouro Preto, 2020.
+  Monografia (Graduação em Engenharia de Controle e Automação).
+Dispon{\'\i}vel em: \url{http://www.monografias.ufop.br/handle/35400000/2872}.}
+
+\bibitem[Filho 2024]{silva2024light}
+\abntrefinfo{Filho}{FILHO}{2024}
+{FILHO, Paulo Cleber Farias~da Silva. Light curve imaging for exoplanet
+  detection with deep learning: a conceptual trial.
+2024.}
+
+\bibitem[Gaio 2022]{gaio2022analise}
+\abntrefinfo{Gaio}{GAIO}{2022}
+{GAIO, Daniel~Eliel. An{\'a}lise comparativa das t{\'e}cnicas de
+  implementa{\c{c}}{\~a}o de arquiteturas da fun{\c{c}}{\~a}o sigmoide.
+Universidade Federal do Pampa, 2022.}
+
+\bibitem[{GameBlast} 2015]{gameblast2015}
+\abntrefinfo{{GameBlast}}{{GameBlast}}{2015}
+{{GameBlast}. \textbf{Problemas em games: bugs, glitches e falhas}. 2015.
+Acesso em: 25 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.gameblast.com.br/2015/10/problemas-games-bugs-glitches-falhas.html}.}
+
+\bibitem[{Google Developers} 2025]{google_multiclasse}
+\abntrefinfo{{Google Developers}}{{Google Developers}}{2025}
+{{Google Developers}. \textbf{Classificação: classificação multiclasse |
+  Machine Learning}. 2025.
+Acesso em: 25 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://developers.google.com/machine-learning/crash-course/classification/multiclass?hl=pt-br}.}
+
+\bibitem[Haykin 2001]{haykin2001redes}
+\abntrefinfo{Haykin}{HAYKIN}{2001}
+{HAYKIN, Simon. \textbf{Redes neurais: princ{\'\i}pios e pr{\'a}tica}. [S.l.]:
+  Bookman Editora, 2001.}
+
+\bibitem[{IGN Brasil} 2020]{ignMissingNo}
+\abntrefinfo{{IGN Brasil}}{{IGN Brasil}}{2020}
+{{IGN Brasil}. \textbf{MissingNo: o pokémon que se tornou o glitch mais famoso
+  da franquia}. 2020.
+Acesso em: 23 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://br.ign.com/pokemon-red-version/109919/news/missingno-o-pokemon-que-se-tornou-o-glitch-mais-famoso-da-franquia}.}
+
+\bibitem[Juraszek et al. 2014]{juraszek2014reconhecimento}
+\abntrefinfo{Juraszek et al.}{JURASZEK et al.}{2014}
+{JURASZEK, Guilherme~Defreitas et al. Reconhecimento de produtos por imagem
+  utilizando palavras visuais e redes neurais convolucionais.
+Universidade do Estado de Santa Catarina, 2014.}
+
+\bibitem[Magotra 2023]{KaggleGameplayImages}
+\abntrefinfo{Magotra}{MAGOTRA}{2023}
+{MAGOTRA, Adit. \textbf{Gameplay Images Dataset}. 2023.
+Acesso em: 22 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.kaggle.com/datasets/aditmagotra/gameplay-images}.}
+
+\bibitem[{Microsoft Learn} 2024]{microsoft_onevsone}
+\abntrefinfo{{Microsoft Learn}}{{Microsoft Learn}}{2024}
+{{Microsoft Learn}. \textbf{Multiclasse Um contra Um - Azure Machine Learning}.
+  2024.
+Acesso em: 14 ago. 2025.
+Dispon{\'\i}vel em:
+  \url{https://learn.microsoft.com/pt-br/azure/machine-learning/component-reference/one-vs-one-multiclass?view=azureml-api-2}.}
+
+\bibitem[{Nintendo} 2025]{nintendoGameBoy}
+\abntrefinfo{{Nintendo}}{{Nintendo}}{2025}
+{{Nintendo}. \textbf{Game Boy | Hardware | Nintendo History}. 2025.
+Acesso em: 23 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.nintendo.com/pt-pt/Consolas-e-acessorios/Historia-da-Nintendo/Game-Boy/Game-Boy-627031.html}.}
+
+\bibitem[Pereira 2025]{pereira2025redes}
+\abntrefinfo{Pereira}{PEREIRA}{2025}
+{PEREIRA, Adriano~Diniz.
+\textbf{Redes neurais convolucionais para análise de mamografias}.
+Tese (Doutorado) --- Universidade Tecnológica Federal do Paraná, Ponta
+  Grossa, PR, 2025. Dissertação (Mestrado em Engenharia de Produção).
+Dispon{\'\i}vel em:
+  \url{http://repositorio.utfpr.edu.br/jspui/handle/1/36848}.}
+
+\bibitem[PEREIRA 2013]{pereira2013beneficios}
+\abntrefinfo{PEREIRA}{PEREIRA}{2013}
+{PEREIRA, S{\'\i}lvia~Arantes. Benef{\'\i}cios do teste de software.
+004, 2013.}
+
+\bibitem[{Pinglestudio} 2025]{pinglestudio2025}
+\abntrefinfo{{Pinglestudio}}{{Pinglestudio}}{2025}
+{{Pinglestudio}. \textbf{What are glitches in gaming?} 2025.
+Acesso em: 25 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://pinglestudio.com/knowledge-base/what-are-glitches-in-gaming}.}
+
+\bibitem[Rodrigues 2024]{rodrigues2024avaliaccao}
+\abntrefinfo{Rodrigues}{RODRIGUES}{2024}
+{RODRIGUES, Miguel Elias~Silva. Avalia{\c{c}}{\~a}o de desempenho de redes
+  neurais convolucionais no diagn{\'o}stico de amiloidose card{\'\i}aca.
+Universidade Federal da Para{\'\i}ba, 2024.}
+
+\bibitem[Rossi 2015]{rossi2015classificacao}
+\abntrefinfo{Rossi}{ROSSI}{2015}
+{ROSSI, Rafael~Geraldeli.
+\textbf{Classifica{\c{c}}{\~a}o autom{\'a}tica de textos por meio de
+  aprendizado de m{\'a}quina baseado em redes}.
+Tese (Tese de Doutorado) --- Universidade de S{\~a}o Paulo (USP), S{\~a}o
+  Carlos, SP, 2015. Acesso aberto. Instituição de defesa: Biblioteca Digital
+  de Teses e Dissertações da USP.
+Dispon{\'\i}vel em:
+  \url{http://www.teses.usp.br/teses/disponiveis/55/55134/tde-05042016-105648/}.}
+
+\bibitem[Santos et al. 2017]{santos2017abordagem}
+\abntrefinfo{Santos et al.}{SANTOS et al.}{2017}
+{SANTOS, Alan et al. Uma abordagem de classifica{\c{c}}{\~a}o de imagens
+  dermatosc{\'o}picas utilizando aprendizado profundo com redes neurais
+  convolucionais. In:  SBC. \textbf{Simp{\'o}sio Brasileiro de
+  Computa{\c{c}}{\~a}o Aplicada {\`a} Sa{\'u}de (SBCAS)}. [S.l.], 2017.}
+
+\bibitem[Santos et al. 2016]{santos2016aplicaccao}
+\abntrefinfo{Santos et al.}{SANTOS et al.}{2016}
+{SANTOS, Murilo~Alves et al. Aplica{\c{c}}{\~a}o de redes neurais no brasil: um
+  estudo bibliom{\'e}trico.
+\textbf{Biblionline}, v.~12, n.~2, p. 101--116, 2016.}
+
+\bibitem[Savi e Ulbricht 2008]{savi2008jogos}
+\abntrefinfo{Savi e Ulbricht}{SAVI; ULBRICHT}{2008}
+{SAVI, Rafael; ULBRICHT, Vania~Ribas. Jogos digitais educacionais:
+  benef{\'\i}cios e desafios.
+\textbf{Revista Novas Tecnologias na Educa{\c{c}}{\~a}o}, v.~6, n.~1, 2008.}
+
+\bibitem[Singh 2023]{datacamp_sigmoid}
+\abntrefinfo{Singh}{SINGH}{2023}
+{SINGH, Vikash. \textbf{Função Sigmóide: O que é e como implementá-la?}
+  2023.
+Acesso em: 22 jun. 2025.
+Dispon{\'\i}vel em:
+  \url{https://www.datacamp.com/pt/tutorial/sigmoid-function}.}
+
+\bibitem[Stephens 2024]{david2024balancing}
+\abntrefinfo{Stephens}{STEPHENS}{2024}
+{STEPHENS, Conor David.
+\textbf{Balancing multiplayer games design using deep learning techniques}.
+Tese (Doutorado) --- University of Limerick, 2024.}
+
+\bibitem[{Unity Technologies} 2023]{unity2023testing}
+\abntrefinfo{{Unity Technologies}}{{Unity Technologies}}{2023}
+{{Unity Technologies}. \textbf{Dicas de teste e garantia de qualidade para
+  projetos Unity}. 2023.
+  \url{https://unity.com/pt/how-to/testing-and-quality-assurance-tips-unity-projects}.
+Acesso em: 21 jul. 2025.}
+
+\bibitem[Utsch 2018]{utsch2018uso}
+\abntrefinfo{Utsch}{UTSCH}{2018}
+{UTSCH, Kaio~Giurizatto. Uso de redes neurais convolucionais para
+  classifica{\c{c}}{\~a}o de imagens digitais de les{\~o}es de pele.
+\textbf{Trabalho de Conclus{\~a}o de Curso (Gradua{\c{c}}{\~a}o em Engenharia
+  El{\'e}trica)-Departamento de Engenharia El{\'e}trica do Centro
+  Tecnol{\'o}gico da Universidade Federal do Esp{\'\i}rito Santo. Esp{\'\i}rito
+  Santo}, 2018.}
+
+\end{thebibliography}

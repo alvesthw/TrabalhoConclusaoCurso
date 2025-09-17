@@ -1,0 +1,28 @@
+\chapter{METODOLOGIA CIENTÍFICA}
+
+Este trabalho adota uma abordagem quantitativa, aplicada e experimental, com o objetivo de investigar o uso de Redes Neurais Convolucionais (CNNs) para a detecção automática de anomalias visuais em jogos digitais. A pesquisa fundamenta-se na análise sistemática de dados visuais para mensurar o desempenho do modelo de CNN na identificação de falhas gráficas, tais como objetos flutuantes, texturas corrompidas e glitches visuais.
+
+A metodologia proposta está estruturada em cinco etapas principais:
+
+\begin{enumerate}
+    \item \textbf{Obtenção do banco de imagens:} Serão utilizadas imagens de jogos digitais provenientes do dataset \textit{Gameplay Images}, disponível no repositório Kaggle (\citeonline{KaggleGameplayImages}). O conjunto contém aproximadamente \textbf{10\,000 imagens} no formato \texttt{.png}, extraídas de \textit{frames} de vídeos do YouTube e organizadas em \textbf{10 classes}, correspondentes a jogos populares: \textit{Among Us}, \textit{Apex Legends}, \textit{Fortnite}, \textit{Forza Horizon}, \textit{Free Fire}, \textit{Genshin Impact}, \textit{God of War}, \textit{Minecraft}, \textit{Roblox} e \textit{Terraria}. Cada classe contém cerca de 1\,000 imagens com resolução padronizada de 640×360 pixels.
+    
+    Para a criação de classes com anomalias, serão aplicadas artificialmente distorções visuais às imagens originais por meio de bibliotecas de processamento de imagem, como \texttt{imgaug} ou \texttt{albumentations} (ainda a definir), simulando falhas gráficas comuns. Entre as distorções planejadas estão: \textit{blur} (desfoque), \textit{noise} (ruído), \textit{pixel dropout}, distorções geométricas e alterações abruptas de cor.
+    
+    Dessa forma, o conjunto de dados será composto por imagens “normais” e imagens “com anomalias”, garantindo controle experimental sobre os tipos de falhas presentes e permitindo a avaliação precisa dos modelos de detecção a serem aplicados.
+        
+    
+    \item \textbf{Padronização dos dados:} todas as imagens coletadas serão redimensionadas e normalizadas para garantir uniformidade no processamento, o que é fundamental para a eficiência do treinamento da rede neural.
+    
+    \item \textbf{Anotação das anomalias:} as imagens terão seus rótulos atribuídos automaticamente, conforme o processo de aplicação das anomalias (original = normal; distorcida = com anomalias), configurando assim um conjunto rotulado para aprendizado supervisionado.
+    
+    \item \textbf{Aumento da base de dados (Data Augmentation):} serão aplicadas técnicas como rotações, espelhamentos e variações de brilho para ampliar a variabilidade dos dados de entrada, fortalecendo a robustez do modelo e evitando overfitting.
+    
+    \item \textbf{Implementação e avaliação da CNN:} o modelo será desenvolvido utilizando bibliotecas como TensorFlow ou PyTorch, com foco na classificação binária. O treinamento será realizado com os dados rotulados e o desempenho avaliado por meio de um conjunto de teste, utilizando métricas quantitativas como acurácia, precisão, recall e matriz de confusão. O tempo de inferência será considerado como métrica adicional de eficiência.
+\end{enumerate}
+
+Além das etapas técnicas, será realizada uma revisão teórica sobre CNNs, visão computacional, acessibilidade em jogos digitais e testes automatizados, fundamentando as decisões técnicas e a relevância da proposta. Também será analisada a integração do sistema de detecção no pipeline de desenvolvimento de jogos, destacando seu potencial para melhorar a qualidade visual e promover maior acessibilidade, especialmente para jogadores com deficiência visual.
+
+A análise dos resultados será conduzida sob uma perspectiva quantitativa, com base em métricas de desempenho do modelo convolucional desenvolvido. O objetivo é avaliar a eficácia da detecção automatizada em cenários relacionados à produção de jogos digitais, utilizando indicadores como acurácia, precisão, revocação e F1-score.
+
+Esta pesquisa não envolve participação direta de usuários finais, e todas as ferramentas, bibliotecas e bases de dados utilizadas serão devidamente citadas conforme as normas acadêmicas vigentes.

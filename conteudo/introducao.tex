@@ -1,0 +1,62 @@
+\chapter{INTRODUÇÃO}
+
+Os  jogos  de videogames e computadores  conquistaram  um espaço  importante  na  vida de  crianças,  jovens  e  adultos  e  hoje  é  um  dos  setores  que  mais  cresce  na  indústria  de mídia   e   entretenimento (\citeonline{savi2008jogos}). Além do entretenimento, os jogos têm se expandido como ferramentas de educação, inclusão e até reabilitação, exigindo cada vez mais atenção a aspectos como qualidade visual, acessibilidade e integridade do gameplay. 
+
+\citeonline{bernardo2020classificaccao} destacam que diversas áreas da realidade social estão sendo gamificadas, ou seja, estão usando elementos de jogos e aplicando-os a outras áreas como educação, trabalho, terapia, negócios, guerra, desenvolvimento social, relacionamentos, entre outros.
+
+Dessa forma, garantir que o ambiente do jogo esteja livre de falhas visuais, bugs ou comportamentos inesperados é um desafio contínuo para desenvolvedores. Tais anomalias podem não apenas comprometer a experiência do jogador, mas também dificultar a navegação e compreensão de elementos do jogo por pessoas com deficiências visuais ou cognitivas. Isto mostra a importância de soluções inteligentes que ajudem na detecção de problemas visuais, tanto para garantir a qualidade quanto a acessibilidade. Com o crescimento da indústria de jogos digitais, especialmente impulsionado pelos esportes eletrônicos, que atraem milhões de espectadores e movimentam grandes premiações em competições organizadas, a exigência por experiências visuais consistentes e inclusivas torna-se ainda mais essencial (\citeonline{bernardo2020classificaccao}).
+
+Neste contexto, este trabalho tem como objetivo explorar o uso de \gls{cnn} para a detecção automática de anomalias visuais em jogos digitais. A proposta envolve a análise de imagens extraídas de jogos para identificar padrões visuais que divergem do comportamento esperado, como objetos ausentes, sobreposição incorreta de elementos ou mudanças súbitas na interface. A partir disso, pretende-se propor um sistema que possa ser aplicado no suporte ao desenvolvimento de jogos digitais mais consistentes e confiáveis.
+
+\section{Justificativa}
+
+Durante o desenvolvimento de jogos digitais, é comum surgirem erros visuais como texturas corrompidas, objetos fora de lugar e falhas gráficas. Esses problemas afetam negativamente a jogabilidade, a imersão do jogador e a acessibilidade, especialmente para pessoas com deficiências visuais ou cognitivas. Garantir um ambiente visual estável e livre de anomalias é essencial para oferecer uma experiência de jogo de qualidade.
+
+Esses erros são comumente chamados de glitches. De acordo com \citeonline{pinglestudio2025}, glitches são erros inesperados de software ou falhas dentro de jogos digitais que resultam em comportamentos não intencionais ou anomalias gráficas. Essas falhas podem variar desde pequenos problemas visuais até defeitos graves que impedem o progresso do jogador.
+
+Para ilustrar esse tipo de problema, a imagem a seguir mostra o famoso glitch do \textit{MissingNo} no jogo \textit{Pokémon Red and Blue}, lançado para o \textit{Game Boy}, um console portátil da Nintendo lançado em 1989, que marcou época por permitir jogos em cartucho em um dispositivo compacto e acessível (\citeonline{nintendoGameBoy}). 
+
+Essa anomalia ocorre quando o jogador executa uma sequência específica de ações que leva o jogo a acessar dados não planejados na memória, resultando na aparição de um "Pokémon" corrompido (\citeonline{ignMissingNo}). Visualmente, o \textit{MissingNo} se manifesta como uma figura distorcida, composta por fragmentos de sprites de outros Pokémon e elementos gráficos do jogo, o que compromete completamente a coerência visual da interface (\citeonline{ignMissingNo}). 
+
+Esse tipo de falha evidencia como erros na manipulação de dados e sprites podem comprometer a percepção do jogador e até gerar comportamentos inesperados na mecânica do jogo (\citeonline{ignMissingNo}).
+
+\begin{figure}[H]
+    \centering
+
+    \caption{Anomalia em Jogo}
+    \vspace{0.5cm} % Espaço entre o título e a imagem
+
+    \includegraphics[width=12cm]{images/teste.png}
+
+    \vspace{0.4cm} % Espaço entre a imagem e a fonte
+    {\small \textbf{Fonte:} \citeonline{gameblast2015}}
+
+    \label{fig:bug}
+\end{figure}
+
+Métodos tradicionais de detecção de erros, baseados em testes manuais, são lentos, caros e nem sempre eficazes. Por isso, há uma necessidade crescente por soluções automatizadas que auxiliem nesse processo. O uso de \glspl{cnn} surge como uma alternativa promissora, pois permite identificar falhas visuais de forma precisa e eficiente, tanto durante o desenvolvimento quanto em tempo real. 
+
+Segundo \citeonline{david2024balancing}, o processo tradicional de playtesting é logisticamente complexo e demorado, exigindo a participação simultânea de centenas de jogadores, além de apresentar dificuldades técnicas como pareamento, confiabilidade dos servidores e coleta de dados por meio de questionários. 
+
+A automação desses testes, incluindo a simulação de jogabilidade e a detecção de anomalias, representa uma solução viável para reduzir custos, aumentar a eficiência e melhorar a qualidade geral do produto final.
+
+Este trabalho se justifica pela proposta de aplicar \glspl{cnn} na detecção de anomalias visuais em jogos digitais, contribuindo para a criação de produtos mais consistentes, acessíveis e tecnicamente aprimorados. A pesquisa visa oferecer uma abordagem prática e inteligente para melhorar a qualidade visual dos jogos, otimizando o processo de desenvolvimento e beneficiando a experiência do usuário final.
+
+\section{Problema de Pesquisa}
+Como as \glspl{cnn} podem ser aplicadas na detecção de anomalias visuais em jogos digitais, contribuindo para a melhoria da qualidade gráfica, da acessibilidade e da experiência do jogador?
+
+\section{Objetivos}
+
+\subsection{Objetivo Geral}
+	
+Investigar como as \glspl{cnn} podem ser aplicadas na detecção de anomalias visuais em jogos digitais.
+
+\subsection{Objetivos Específicos} 
+
+\begin{itemize}
+    \item Identificar os principais tipos de anomalias visuais em jogos digitais.
+    \item Investigar abordagens existentes que utilizam \glspl{cnn} para detecção de anomalias visuais.
+    \item Desenvolver um modelo de \gls{cnn} para identificar anomalias visuais em cenas de jogos.
+    \item Avaliar a precisão e eficiência do modelo proposto.
+    \item Analisar os benefícios e limitações do uso de \gls{cnn} na detecção de anomalias em jogos digitais.
+\end{itemize} 

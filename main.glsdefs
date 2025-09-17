@@ -1,0 +1,224 @@
+\glsdefs@newdocentry{ifc}%
+{%
+name={\acronymfont {\glsentryshort {ifc}}},%
+sort={IFC},%
+type={acronym},%
+first={IFC},%
+firstplural={IFCs},%
+text={IFC},%
+plural={IFCs},%
+description={Instituto Federal Catarinense},%
+descriptionplural={Instituto Federal Catarinense},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Instituto Federal Catarinense},%
+longplural={Instituto Federal Catarinenses},%
+short={IFC},%
+shortplural={IFCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{html}%
+{%
+name={\acronymfont {\glsentryshort {html}}},%
+sort={HTML},%
+type={acronym},%
+first={HTML},%
+firstplural={HTMLs},%
+text={HTML},%
+plural={HTMLs},%
+description={HAG TE MEMELE},%
+descriptionplural={HAG TE MEMELE},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HAG TE MEMELE},%
+longplural={HAG TE MEMELEs},%
+short={HTML},%
+shortplural={HTMLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ids}%
+{%
+name={\acronymfont {\glsentryshort {ids}}},%
+sort={IDS},%
+type={acronym},%
+first={Sistema de Detecção de Intrusão (IDS, do ingl\^es \protect \emph  {Intrusion Detection System})},%
+firstplural={Sistemas de Detecção de Intrusão (IDS, do ingl\^es \protect \emph  {Intrusion Detection System})},%
+text={IDS},%
+plural={IDSs},%
+description={sistema de detecção de intrusão},%
+descriptionplural={sistema de detecção de intrusão},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={sistema de detecção de intrusão},%
+longplural={sistemas de detecção de intrusão},%
+short={IDS},%
+shortplural={IDSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{cnn}%
+{%
+name={\acronymfont {\glsentryshort {cnn}}},%
+sort={CNN},%
+type={acronym},%
+first={CNN},%
+firstplural={CNNs},%
+text={CNN},%
+plural={CNNs},%
+description={Rede Neural Convolucional (do inglês \textit {Convolutional Neural Networks})},%
+descriptionplural={Rede Neural Convolucional (do inglês \textit {Convolutional Neural Networks})},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rede Neural Convolucional (do inglês \protect \textit  {Convolutional Neural Networks})},%
+longplural={Rede Neural Convolucional (do inglês \protect \textit  {Convolutional Neural Networks})s},%
+short={CNN},%
+shortplural={CNNs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{am}%
+{%
+name={\acronymfont {\glsentryshort {am}}},%
+sort={AM},%
+type={acronym},%
+first={AM},%
+firstplural={AMs},%
+text={AM},%
+plural={AMs},%
+description={Aprendizado de Máquina},%
+descriptionplural={Aprendizado de Máquina},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Aprendizado de Máquina},%
+longplural={Aprendizado de Máquinas},%
+short={AM},%
+shortplural={AMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{rna}%
+{%
+name={\acronymfont {\glsentryshort {rna}}},%
+sort={RNA},%
+type={acronym},%
+first={RNA},%
+firstplural={RNAs},%
+text={RNA},%
+plural={RNAs},%
+description={Rede Neural Artificial},%
+descriptionplural={Rede Neural Artificial},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rede Neural Artificial},%
+longplural={Redes Neurais Artificiais},%
+short={RNA},%
+shortplural={RNAs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{relu}%
+{%
+name={\acronymfont {\glsentryshort {relu}}},%
+sort={ReLU},%
+type={acronym},%
+first={ReLU},%
+firstplural={ReLUs},%
+text={ReLU},%
+plural={ReLUs},%
+description={Rectified Linear Unit},%
+descriptionplural={Rectified Linear Unit},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Rectified Linear Unit},%
+longplural={Rectified Linear Units},%
+short={ReLU},%
+shortplural={ReLUs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{af}%
+{%
+name={\acronymfont {\glsentryshort {af}}},%
+sort={AF},%
+type={acronym},%
+first={AF},%
+firstplural={AFs},%
+text={AF},%
+plural={AFs},%
+description={Função de Ativação (do inglês \textit {Activation Function})},%
+descriptionplural={Função de Ativação (do inglês \textit {Activation Function})},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Função de Ativação (do inglês \protect \textit  {Activation Function})},%
+longplural={Função de Ativação (do inglês \protect \textit  {Activation Function})s},%
+short={AF},%
+shortplural={AFs},%
+counter={page},%
+parent={},%
+%
+}%
+
