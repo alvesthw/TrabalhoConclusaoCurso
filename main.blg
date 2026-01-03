@@ -17,8 +17,12 @@ Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: conteudo/introducao.aux
 Reallocating 'name_of_file' (item size: 1) to 27 items.
 A level-1 auxiliary file: conteudo/fundamentacao.aux
-Reallocating 'name_of_file' (item size: 1) to 25 items.
-A level-1 auxiliary file: conteudo/metodologia.aux
+Reallocating 'name_of_file' (item size: 1) to 33 items.
+A level-1 auxiliary file: conteudo/trabalhoscorrelatos.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: conteudo/desenvolvimento.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: conteudo/resultados.aux
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 A level-1 auxiliary file: conteudo/cronograma.aux
 Reallocating 'name_of_file' (item size: 1) to 23 items.
@@ -47,44 +51,44 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 38 entries,
+You've used 39 entries,
             6714 wiz_defined-function locations,
-            1383 strings with 16310 characters,
-and the built_in function-call counts, 42877 in all, are:
-= -- 4971
-> -- 631
+            1392 strings with 16607 characters,
+and the built_in function-call counts, 43606 in all, are:
+= -- 5024
+> -- 663
 < -- 1077
-+ -- 1333
-- -- 202
-* -- 2495
-:= -- 5427
-add.period$ -- 128
-call.type$ -- 38
-change.case$ -- 279
-chr.to.int$ -- 49
-cite$ -- 32
-duplicate$ -- 4380
-empty$ -- 1939
-format.name$ -- 946
-if$ -- 8580
++ -- 1345
+- -- 212
+* -- 2550
+:= -- 5529
+add.period$ -- 132
+call.type$ -- 39
+change.case$ -- 291
+chr.to.int$ -- 50
+cite$ -- 33
+duplicate$ -- 4422
+empty$ -- 1987
+format.name$ -- 993
+if$ -- 8744
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 603
-newline$ -- 184
-num.names$ -- 160
-pop$ -- 739
+missing$ -- 621
+newline$ -- 190
+num.names$ -- 165
+pop$ -- 763
 preamble$ -- 1
-purify$ -- 124
+purify$ -- 128
 quote$ -- 0
-skip$ -- 4487
+skip$ -- 4521
 stack$ -- 1
-substring$ -- 1849
-swap$ -- 1467
+substring$ -- 1868
+swap$ -- 1480
 text.length$ -- 24
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 13
 warning$ -- 0
-while$ -- 219
+while$ -- 225
 width$ -- 0
-write$ -- 493
+write$ -- 509

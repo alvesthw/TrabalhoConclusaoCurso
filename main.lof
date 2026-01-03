@@ -1,5 +1,20 @@
 \babel@toc {brazil}{}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces Anomalia em Jogo}}{12}{figure.caption.9}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Evolução do número de estúdios de desenvolvimento de jogos no Brasil}}{16}{figure.caption.10}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Representação visual de uma arquitetura de \gls {cnn}}}{19}{figure.caption.11}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Modelo de desenvolvimento em V.}}{27}{figure.caption.12}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Anomalia em Jogo}}{12}{figure.caption.11}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Evolução do número de estúdios de desenvolvimento de jogos no Brasil}}{16}{figure.caption.12}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Representação visual de uma arquitetura de \gls {cnn}}}{19}{figure.caption.13}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Modelo de desenvolvimento em V.}}{27}{figure.caption.14}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Evolução da acurácia e perda da VGG16 durante o treinamento.}}{35}{figure.caption.16}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Matriz de confusão da VGG16.}}{36}{figure.caption.17}%
+\contentsline {figure}{\numberline {7}{\ignorespaces F1-score por classe da VGG16.}}{36}{figure.caption.18}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Curva ROC da VGG16.}}{37}{figure.caption.19}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Evolução da acurácia e perda da VGG19 durante o treinamento.}}{37}{figure.caption.21}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Matriz de confusão da VGG19.}}{38}{figure.caption.22}%
+\contentsline {figure}{\numberline {11}{\ignorespaces F1-score por classe da VGG19.}}{38}{figure.caption.23}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Curva ROC da VGG19.}}{39}{figure.caption.24}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Evolução da acurácia e perda da DenseNet121 durante o treinamento.}}{39}{figure.caption.26}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Matriz de confusão da DenseNet121.}}{40}{figure.caption.27}%
+\contentsline {figure}{\numberline {15}{\ignorespaces F1-score por classe da DenseNet121.}}{40}{figure.caption.28}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Curva ROC da DenseNet121.}}{41}{figure.caption.29}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Evolução da acurácia e perda da AlexNet.}}{41}{figure.caption.31}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Evolução da acurácia e perda da ResNet50.}}{41}{figure.caption.32}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Evolução da acurácia e perda da EfficientNetV2M.}}{42}{figure.caption.33}%
